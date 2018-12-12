@@ -10,4 +10,4 @@ db = DBSCAN(eps=minimum_dist, min_samples=minimum_samples, algorithm = 'ball_tre
 db.labels_
 
 
-#This code was in a Tableau workbookto find hot spots in a geography
+#This code was in a Tableau workbook to find hot spots in a geography
