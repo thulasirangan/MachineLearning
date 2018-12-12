@@ -11,3 +11,4 @@ db.labels_
 
 
 #This code was in a Tableau workbook to find hot spots in a geography
+# db.labels_ gives the cluster labels as 0,1,.. .Label -1 is noise.
